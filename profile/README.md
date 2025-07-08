@@ -1,10 +1,10 @@
-![Banner](https://github.com/user-attachments/assets/b30d725e-451f-4037-baed-7e7fb268de13)
+![Banner](https://github.com/user-attachments/assets/29d7ce76-391f-41fa-a951-e430831433c2)
 
 ## 덕성여자대학교 디지털교육공학센터 사이트
 
-> Duksung women’s university Digital Educational Technology Lab
+> Duksung Women’s University Digital Educational Technology Lab
 
-<img src="https://github.com/user-attachments/assets/7930674f-a2b0-4e29-8f4d-f90bf0d747cd" width=300>
+<img src="https://github.com/user-attachments/assets/968d0084-399c-4a73-89c2-f7d36d437e8c" width=300>
 
 [👉🏻 디지털교육공학센터 사이트 바로가기(배포 후 수정 예정)](link)
 
