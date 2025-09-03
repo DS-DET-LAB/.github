@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/968d0084-399c-4a73-89c2-f7d36d437e8c" width=300>
 
-[👉🏻 디지털교육공학센터 사이트 바로가기(배포 후 수정 예정)](link)
+[👉🏻 디지털교육공학센터 사이트 바로가기](https://ds-det-lab.vercel.app/)
 
 <br>
 
